@@ -5,17 +5,17 @@
 
   * Purpose
 
-      Report show us KFAU Management System is what, its purpose is what and its features.
+      Report show us Database Management System is what, its purpose is what and its features.
 
   * Product Scope
 
-    KFAU Management System is independent application. Actual purpose is see data about university but application can connect any database and analyse any database. Benefits    are connection of any database, infinite select statement, infinite insert statement, infinite delete statement, infinite update statement and see view tables and procedure  stores.
+    Database Management System is independent application. Actual purpose is see data about university but application can connect any database and analyse any database. Benefits    are connection of any database, infinite select statement, infinite insert statement, infinite delete statement, infinite update statement and see view tables and procedure  stores.
 
 **2) Overall DescriptionOverall Description**
 
   * Product Overview
 
-      Application connect to database. After that application edit / see database variable. It means application is kind of Microsoft Structured Query Language Server Management  Studio. Application name is KFAU Management System because I create database and I code application for this database. Application can insert / delete / see / update         database variable. Application also check view table and procedure structure. If we keep on disadvantages, they are it cannot create table, it cannot separate view table and table and it cannot shows trigger.
+      Application connect to database. After that application edit / see database variable. It means application is kind of Microsoft Structured Query Language Server Management  Studio. Application name is Database Management System because I create database and I code application for this database. Application can insert / delete / see / update         database variable. Application also check view table and procedure structure. If we keep on disadvantages, they are it cannot create table, it cannot separate view table and table and it cannot shows trigger.
 
   * Assumptions and Dependencies
 
